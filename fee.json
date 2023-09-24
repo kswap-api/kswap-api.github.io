@@ -1,4 +1,5 @@
 {
   "BASE_FEE": 0.001,
+  "MIN_BASE_FEE": 0.0,
   "DIFF_COEFFICIENT": 0.005
 }
